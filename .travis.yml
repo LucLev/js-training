@@ -1,4 +1,4 @@
-script: ./tester basics
+script: ./tester basics declaration str advanced function get gets opperator math method tdd recursion
 language: node_js
 node_js:
   - "node"
