@@ -1,9 +1,8 @@
-[![Build Status](https://travis-ci.org/Luclev/js-training.svg?branch=luclev)](https://travis-ci.org/nan-academy/js-training)
+[![Build Status](https://travis-ci.org/LucLev/js-training.svg?branch=Luclev)](https://travis-ci.org/LucLev/js-training)
 ## Setup
 First, [**fork**](https://github.com/nan-academy/js-training/fork?fragment=1) this repository.
 ### globals dependencies
 install globaly node on your computer
-
 ```sh
 # download your code locally
 git clone https://github.com/GITHUB_LOGIN/js-training.git
